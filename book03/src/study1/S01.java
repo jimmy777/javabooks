@@ -3,6 +3,9 @@ package study1;
 import java.io.FileNotFoundException;
 
 public class S01 {
+
+    // 第一部分（第1~6章节）的例子。
+
     enum Flavor { A, B, C};
 
     public static void main(String[] args) throws FileNotFoundException {
